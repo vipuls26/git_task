@@ -20,3 +20,20 @@ button{
     font-size: 20px;
     
 }
+
+nav{
+    background-color: bisque;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a{
+    background-color: aquamarine;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+
